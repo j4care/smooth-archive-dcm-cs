@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'DICOM Conformance Statement for dcm4chee-arc-pro'
+project = u'DICOM Conformance Statement for Smooth Archive'
 copyright = u'2020, J4Care GmBH'
 author = u'J4Care GMbH'
 
@@ -80,7 +80,7 @@ exclude_patterns = ['dcm4chee-arc-cs/docs/index.rst', 'dcm4chee-arc-cs/docs/toc.
 # A string of reStructuredText that will be included at the end of every
 # source file that is read.
 rst_epilog = """
-.. |product| replace:: *dcm4chee-arc-pro*
+.. |product| replace:: *Smooth Archive*
 """
 
 # The reST default role (used for this markup: `text`) to use for all
@@ -140,7 +140,7 @@ html_theme_options = {
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'DICOM Conformance Statement for dcm4chee-arc-pro'
+html_title = 'DICOM Conformance Statement for Smooth Archive'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -223,7 +223,7 @@ def setup(app):
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'dcm4chee-arc-pro-cs'
+htmlhelp_basename = 'smooth-archive-dcm-cs'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -254,7 +254,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'dcm4chee-arc-cs.tex', u'DICOM Conformance Statement for dcm4chee-arc-pro',
+  (master_doc, 'dcm4chee-arc-cs.tex', u'DICOM Conformance Statement for Smooth Archive',
    u'J4Care GmBH', 'manual'),
 ]
 
@@ -284,7 +284,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'dcm4chee-arc-cs', u'DICOM Conformance Statement for dcm4chee-arc-pro',
+    (master_doc, 'dcm4chee-arc-cs', u'DICOM Conformance Statement for Smooth Archive',
      [author], 1)
 ]
 
@@ -298,7 +298,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'dcm4chee-arc-cs', u'DICOM Conformance Statement for dcm4chee-arc-pro',
+  (master_doc, 'dcm4chee-arc-cs', u'DICOM Conformance Statement for Smooth Archive',
    author, 'dcm4chee-arc-cs', 'One line description of project.',
    'Miscellaneous'),
 ]
