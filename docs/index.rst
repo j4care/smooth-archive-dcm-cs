@@ -1,5 +1,5 @@
 |product| - DICOM Conformance Statement
-#####################################
+#######################################
 
 :Company Name: J4Care GmBH
 :Product Name: |product|
