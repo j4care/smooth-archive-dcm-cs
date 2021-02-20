@@ -1,3 +1,4 @@
 [submodule "docs/dcm4chee-arc-cs"]
 	path = docs/dcm4chee-arc-cs
 	url = https://github.com/dcm4che/dcm4chee-arc-cs.git
+	branch = master
