@@ -21,8 +21,8 @@ import shlex
 project = u'Smooth Archive - DICOM Conformance Statement'
 copyright = u'2021, J4Care GmBH'
 author = u'J4Care GMbH'
-version = u'5.25'
-release = u'5.25'
+version = u'5.26'
+release = u'5.26'
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
