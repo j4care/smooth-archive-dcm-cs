@@ -13,13 +13,12 @@
    :includehidden:
 
    iso-preamble
-   toc
    dcm4chee-arc-cs/docs/overview
+   toc
    dcm4chee-arc-cs/docs/introduction
    dcm4chee-arc-cs/docs/networking
    dcm4chee-arc-cs/docs/media
    dcm4chee-arc-cs/docs/charsets
    dcm4chee-arc-cs/docs/security
-   xdsi
 
 
