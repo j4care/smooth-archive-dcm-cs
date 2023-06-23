@@ -19,7 +19,7 @@ import shlex
 
 # General information about the project.
 project = u'Smooth Archive - DICOM Conformance Statement'
-copyright = u'2023, J4Care GmBH'
+copyright = u'2023, J4Care GmbH'
 author = u'J4Care GMbH'
 version = u'5.31.0'
 release = u'5.31.0-1'
@@ -249,7 +249,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   (master_doc, 'dcm4chee-arc-cs.tex', u'DICOM Conformance Statement for Smooth Archive',
-   u'J4Care GmBH', 'manual'),
+   u'J4Care GmbH', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
