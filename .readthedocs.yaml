@@ -8,6 +8,7 @@ build:
     post_checkout:
       - git submodule sync
       - git submodule update --init --force --recursive --
+
 # Build from the docs/ directory with Sphinx
 sphinx:
   configuration: docs/conf.py
