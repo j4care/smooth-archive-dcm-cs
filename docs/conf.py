@@ -22,7 +22,7 @@ project = u'Smooth Archive - DICOM Conformance Statement'
 copyright = u'2023, J4Care GmbH'
 author = u'J4Care GMbH'
 version = u'5.33.1'
-release = u'5.33.1-2'
+release = u'5.33.1-7'
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
