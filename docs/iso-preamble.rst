@@ -50,7 +50,7 @@ Product Labeling
 
 .. _revisions:
 
-Revision Record for Document AEN-00039-0516.10 - test
+Revision Record for Document AEN-00039-0516.10
 ==============================================
 
 .. list-table:: Release Notes
