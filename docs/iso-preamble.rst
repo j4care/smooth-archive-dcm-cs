@@ -57,3 +57,230 @@ Revision Record for Document AEN-00039-0516.10
    :header: "Revision", "Changes", "Date", "Author", "Approved"
    :file: aen-revisions.csv
    :widths: 5, 35, 13, 25, 25
+
+Revision Record for Document AEN-00039-0516.10 - test
+==============================================
+
+.. list-table:: Release Notes
+   :header-rows: 1
+
+   * - ID
+     - Release Notes
+     - Date
+     - Author
+     - Reviewer
+   * - 87
+     - `Release Notes 5.33.1 <https://docs.j4care.com/archive/releases/pro-release-5-33-1>`_
+     - **11.10.2024**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 86
+     - `Release Notes 5.33.0 <https://docs.j4care.com/archive/releases/pro-release-5-33-0>`_
+     - **20.9.2024**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 85
+     - `Release Notes 5.32.1 <https://docs.j4care.com/archive/releases/pro-release-5-32-1>`_
+     - **26.7.2024**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 84
+     - `Release Notes 5.32.0 <https://docs.j4care.com/archive/releases/pro-release-5-32-0>`_
+     - **30.4.2024**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 83
+     - `Release Notes 5.31.3 <https://docs.j4care.com/archive/releases/pro-release-5-31-3>`_
+     - **29.1.2024**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 82
+     - `Release Notes 5.31.2 <https://docs.j4care.com/archive/releases/pro-release-5-31-2>`_
+     - **4.1.2024**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 81
+     - `Release Notes 5.31.1 <https://docs.j4care.com/archive/releases/pro-release-5-31-1>`_
+     - **11.10.2023**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 80
+     - `Release Notes 5.31.0 <https://docs.j4care.com/archive/releases/pro-release-5-31-0>`_
+     - **31.8.2023**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 79
+     - `Release Notes 5.30.0 <https://docs.j4care.com/archive/releases/pro-release-5-30-0>`_
+     - **5.5.2023**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 78
+     - `Release Notes 5.29.2 <https://docs.j4care.com/archive/releases/pro-release-5-29-2>`_
+     - **5.4.2023**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 77
+     - `Release Notes 5.29.1 <https://docs.j4care.com/archive/releases/pro-release-5-29-1>`_
+     - **29.11.2022**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 76
+     - `Release Notes 5.28.0 <https://docs.j4care.com/archive/releases/pro-release-5-28-0>`_
+     - **31.08.2022**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 75
+     - `Release Notes 5.27.0 <https://docs.j4care.com/archive/releases/pro-release-5-27-0>`_
+     - **03.08.2022**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 74
+     - `Release Notes 5.26.1 <https://docs.j4care.com/archive/releases/pro-release-5-26-1>`_
+     - **05.07.2022**
+     - P. Kalina
+     - J.Friedrichkeit
+   * - 73
+     - `Release Notes 5.26.0 <https://docs.j4care.com/archive/releases/pro-release-5-26-0>`_
+     - **25.04.2022**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 72
+     - `Release Notes 5.25.2 <https://docs.j4care.com/archive/releases/pro-release-5-25-2>`_
+     - **14.02.2022**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 71
+     - `Release Notes 5.25.1 <https://docs.j4care.com/archive/releases/pro-release-5-25-1>`_
+     - **29.12.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 70
+     - `Release Notes 5.25.0 <https://docs.j4care.com/archive/releases/pro-release-5-25-0>`_
+     - **14.12.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 69
+     - `Release Notes 5.24.2 <https://docs.j4care.com/archive/releases/pro-release-5-24-2>`_
+     - **14.10.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 68
+     - `Release Notes 5.24.1 <https://docs.j4care.com/archive/releases/pro-release-5-24-1>`_
+     - **15.09.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 67
+     - `Release Notes 5.24.0 <https://docs.j4care.com/archive/releases/pro-release-5-24-0>`_
+     - **06.08.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 66
+     - `Release Notes 5.23.3 <https://docs.j4care.com/archive/releases/pro-release-5-23-3>`_
+     - **18.05.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 65
+     - `Release Notes 5.23.2 <https://docs.j4care.com/archive/releases/pro-release-5-23-2>`_
+     - **24.03.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 64
+     - `Release Notes 5.23.1 <https://docs.j4care.com/archive/releases/pro-release-5-23-1>`_
+     - **10.02.2021**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 63
+     - `Release Notes 5.23.0 <https://docs.j4care.com/archive/releases/pro-release-5-23-0>`_
+     - **14.12.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 62
+     - `Release Notes 5.22.6 <https://docs.j4care.com/archive/releases/pro-release-5-22-6>`_
+     - **16.10.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 61
+     - `Release Notes 5.22.5 GA <https://docs.j4care.com/archive/releases/pro-release-5-22-5-ga>`_
+     - **01.10.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 60
+     - `Release Notes 5.22.4 GA <https://docs.j4care.com/archive/releases/pro-release-5-22-4-ga>`_
+     - **20.08.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 59
+     - `Release Notes 5.22.3 GA <https://docs.j4care.com/archive/releases/pro-release-5-22-3-ga>`_
+     - **30.06.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 58
+     - `Release Notes 5.22.2 GA <https://docs.j4care.com/archive/releases/pro-release-5-22-2-ga>`_
+     - **29.05.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 57
+     - `Release Notes 5.22.1 GA <https://docs.j4care.com/archive/releases/pro-release-5-22-1-ga>`_
+     - **10.04.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 56
+     - `Release Notes 5.22.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-22-0-ga>`_
+     - **13.03.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 55
+     - `Release Notes 5.21.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-21-0-ga>`_
+     - **28.01.2020**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 54
+     - `Release Notes 5.20.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-20-0-ga>`_
+     - **20.12.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 53
+     - `Release Notes 5.19.1 GA <https://docs.j4care.com/archive/releases/pro-release-5-19-1-ga>`_
+     - **19.11.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 52
+     - `Release Notes 5.19.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-19-0-ga>`_
+     - **10.10.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 51
+     - `Release Notes 5.18.1 GA <https://docs.j4care.com/archive/releases/pro-release-5-18-1-ga>`_
+     - **05.09.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 50
+     - `Release Notes 5.18.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-18-0-ga>`_
+     - **02.08.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 49
+     - `Release Notes 5.17.1 GA <https://docs.j4care.com/archive/releases/pro-release-5-17-1-ga>`_
+     - **12.07.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 48
+     - `Release Notes 5.17.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-17-0-ga>`_
+     - **04.06.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 47
+     - `Release Notes 5.16.2 GA <https://docs.j4care.com/archive/releases/pro-release-5-16-2-ga>`_
+     - **25.04.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 46
+     - `Release Notes 5.16.1 GA <https://docs.j4care.com/archive/releases/pro-release-5-16-1-ga>`_
+     - **09.04.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 45
+     - `Release Notes 5.16.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-16-0-ga>`_
+     - **01.03.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
