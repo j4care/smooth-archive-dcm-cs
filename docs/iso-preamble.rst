@@ -50,14 +50,6 @@ Product Labeling
 
 .. _revisions:
 
-Revision Record for Document AEN-00039-0516.10
-==============================================
-
-.. csv-table:: Revision record for document AEN-00039-0516.10
-   :header: "Revision", "Changes", "Date", "Author", "Approved"
-   :file: aen-revisions.csv
-   :widths: 5, 35, 13, 25, 25
-
 Revision Record for Document AEN-00039-0516.10 - test
 ==============================================
 
@@ -282,5 +274,225 @@ Revision Record for Document AEN-00039-0516.10 - test
    * - 45
      - `Release Notes 5.16.0 GA <https://docs.j4care.com/archive/releases/pro-release-5-16-0-ga>`_
      - **01.03.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 44
+     - Release Notes 5.15.1 GA
+     - **10.01.2019**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 43
+     - Release Notes 5.15.0 GA
+     - **21.11.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 42
+     - Release Notes 5.14.1 GA
+     - **03.10.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 41
+     - Release Notes 5.14.0 GA
+     - **29.08.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 40
+     - Release Notes 5.13.3 GA
+     - **12.07.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 39
+     - Release Notes 5.13.2 GA
+     - **06.06.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 38
+     - Release Notes 5.13.1 GA
+     - **15.05.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 37
+     - Release Notes 5.13.0 GA
+     - **31.03.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 36
+     - Release Notes 5.12.0 GA
+     - **13.02.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 35
+     - Release Notes 5.11.0 GA
+     - **27.11.2018**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 34
+     - Release Notes 5.10.6 GA
+     - **09.10.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 33
+     - Release Notes 5.10.5 GA
+     - **25.08.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 32
+     - Release Notes 5.10.4 GA
+     - **10.07.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 31
+     - Release Notes 5.10.3 GA
+     - **12.06.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 30
+     - Release Notes 5.10.2 GA
+     - **18.05.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 29
+     - Release Notes 5.10.1 GA
+     - **27.04.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 28
+     - Release Notes 5.10.0 GA
+     - **30.03.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 27
+     - Release Notes 5.9.3 GA
+     - **10.03.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 26
+     - Release Notes 5.9.2 GA
+     - **21.02.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 25
+     - Release Notes 5.9.1 GA
+     - **15.02.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 24
+     - Release Notes 5.9.0 GA
+     - **01.02.2017**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 23
+     - Release Notes 5.8.1 GA
+     - **29.12.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 22
+     - Release Notes 5.8.0 GA
+     - **23.12.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 21
+     - Release Notes 5.7.2 GA
+     - **14.11.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 20
+     - Release Notes 5.7.1 GA
+     - **02.11.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 19
+     - Release Notes 5.7.0 GA
+     - **25.10.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 18
+     - Release Notes 5.6.3 GA
+     - **14.10.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 17
+     - Release Notes 5.6.2 GA
+     - **12.10.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 16
+     - Release Notes 5.6.1 GA
+     - **07.10.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 15
+     - Release Notes 5.6.0 GA
+     - **15.09.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 14
+     - Release Notes 5.5.4 GA
+     - **31.08.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 13
+     - Release Notes 5.5.3 GA
+     - **02.08.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 12
+     - Release Notes 5.5.2 GA
+     - **18.07.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 11
+     - Release Notes 5.5.1 GA
+     - **11.07.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 10
+     - Release Notes 5.5.0 GA
+     - **29.06.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 09
+     - Release Notes 5.4.1 GA
+     - **20.06.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 08
+     - Release Notes 5.4.0 GA
+     - **14.06.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 07
+     - Release Notes 5.3.1 GA
+     - **01.06.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 06
+     - Release Notes 5.3.0 GA
+     - **27.05.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 05
+     - Release Notes 5.2.1 GA
+     - **25.05.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 04
+     - Release Notes 5.2.0 GA
+     - **17.05.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 03
+     - Release Notes 5.1.0 GA
+     - **17.05.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 02
+     - Release Notes 5.0.1 GA
+     - **25.05.2016**
+     - G.Zeilinger
+     - J.Friedrichkeit
+   * - 01
+     - Release Notes 5.0.0 GA
+     - **02.11.2015**
      - G.Zeilinger
      - J.Friedrichkeit
