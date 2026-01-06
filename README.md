@@ -2,8 +2,9 @@
 
 Sphinx-based documentation for J4Care Smooth Archive DICOM Conformance Statement.
 
-- **ReadTheDocs**: https://smooth-archive-dcm-cs.readthedocs.io
 - **GitHub**: https://github.com/j4care/smooth-archive-dcm-cs
+- **ReadTheDocs**: https://smooth-archive-dcm-cs.readthedocs.io
+- **PDF**: https://download.j4care.com/documentation/cs/smooth-archive-dcm-cs.pdf
 
 ## Repository Structure
 
